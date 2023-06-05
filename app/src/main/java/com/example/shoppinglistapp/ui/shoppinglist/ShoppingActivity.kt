@@ -1,10 +1,9 @@
-package com.example.shoppinglistapp.ui
+package com.example.shoppinglistapp.ui.shoppinglist
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.lifecycle.ViewModelProvider
 import com.example.shoppinglistapp.R
-import com.example.shoppinglistapp.ui.shoppinglist.ShoppingViewModel
 
 class ShoppingActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
