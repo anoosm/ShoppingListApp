@@ -3,7 +3,6 @@ package com.example.shoppinglistapp.ui.shoppinglist
 import android.content.Context
 import android.os.Bundle
 import android.widget.Toast
-
 import androidx.appcompat.app.AppCompatDialog
 import com.example.shoppinglistapp.data.db.entities.ShoppingItem
 import com.example.shoppinglistapp.databinding.DialogAddShoppingItemBinding
